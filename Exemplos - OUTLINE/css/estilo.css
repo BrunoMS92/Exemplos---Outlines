@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.conteiner1{
+    display: block;
+    padding: 5px 5px 5px 5px ;
+    font-size: 30px;
+}
+
+.dotted{
+outline-style: dotted;
+background-color: blue;
+}
+
+.dashed{
+    outline-style: dashed;
+    background-color: aqua;
+    }
+
+.solid{
+    outline-style: solid;
+    background-color: red;
+    }
+
+.double{
+    outline-style: double;
+    background-color:firebrick;
+    font-size: 25px;
+    }
+
+.groove{
+    outline-style: groove;
+    outline-color: yellow;
+    background-color: yellow;
+    }
+
+.ridge{
+    outline-style: ridge;
+    outline-color: green;
+    background-color: green;
+    }
+
+.inset{
+    outline-style: inset;
+    outline-color: chartreuse;
+    background-color: chartreuse;
+    }
+
+.outset{
+    outline-style: outset;
+    outline-color: coral;
+    background-color:  coral;
+    }
